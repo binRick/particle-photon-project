@@ -1,0 +1,22 @@
+{
+  "name": "particle-project-1",
+  "version": "1.0.0",
+  "description": "A Particle project named particle-project-1",
+  "main": "part.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.vpntech.net:root/particle-project-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "chalk": "^2.4.1",
+    "prettyjson": "^1.2.1",
+    "request": "^2.86.0",
+    "underscore": "^1.9.0"
+  }
+}
