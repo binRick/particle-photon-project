@@ -1,3 +1,4 @@
 particle.js call lakeMaryMosquito togglePixels rainbow
 particle.js call lakeMaryMosquito togglePixels off
 particle.js call lakeMaryMosquito togglePixels red
+./particle call lakeMaryMosquito togglePixels blueWipe
