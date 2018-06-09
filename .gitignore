@@ -2,3 +2,5 @@ photon_firmware_1526427263608.bin photon_firmware_1526428229645.bin photon_firmw
 package-lock.json
 node_modules/
 photon_firmware_*.bin
+particle
+src/*.swp
